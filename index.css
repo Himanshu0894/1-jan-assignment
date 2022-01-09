@@ -1,0 +1,11 @@
+#container{
+    width: 100vw;
+    height: 500px;
+    background-color: orange;
+    padding: 20px 200px;
+}
+#res{
+    width: 20px;
+    color: white;
+    background-color: blue;
+}
